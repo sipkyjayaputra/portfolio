@@ -1,0 +1,2 @@
+.btn-animated span{cursor:pointer;display:inline-block;position:relative;transition:.5s}.btn-animated span:after{content:"\00bb";position:absolute;opacity:0;transition:.5s}.btn-animated:hover span{padding-right:25px}.btn-animated:hover span:after{opacity:1;right:0}.thumbnail:hover{opacity:.5;transition:.5s}
+/*# sourceMappingURL=main.6a258a5e.chunk.css.map */

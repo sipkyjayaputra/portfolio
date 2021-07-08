@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6a258a5e.chunk.css",
+    "main.js": "/portfolio/static/js/main.c92230bb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c92230bb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e92c9af7.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e92c9af7.js.map",
+    "static/css/2.a1596f27.chunk.css": "/portfolio/static/css/2.a1596f27.chunk.css",
+    "static/js/2.9c9cee2b.chunk.js": "/portfolio/static/js/2.9c9cee2b.chunk.js",
+    "static/js/2.9c9cee2b.chunk.js.map": "/portfolio/static/js/2.9c9cee2b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/portfolio/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.6a258a5e.chunk.css.map": "/portfolio/static/css/main.6a258a5e.chunk.css.map",
+    "static/js/2.9c9cee2b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9c9cee2b.chunk.js.LICENSE.txt",
+    "static/media/coffee-store.dbbc2f72.png": "/portfolio/static/media/coffee-store.dbbc2f72.png",
+    "static/media/company-profile.e221a15d.png": "/portfolio/static/media/company-profile.e221a15d.png",
+    "static/media/delivery-app.85869b4c.png": "/portfolio/static/media/delivery-app.85869b4c.png",
+    "static/media/document-management.2f933e7a.png": "/portfolio/static/media/document-management.2f933e7a.png",
+    "static/media/football-app.264dc673.png": "/portfolio/static/media/football-app.264dc673.png",
+    "static/media/information-system.1fc4f1c6.png": "/portfolio/static/media/information-system.1fc4f1c6.png",
+    "static/media/landing-page.494da594.png": "/portfolio/static/media/landing-page.494da594.png",
+    "static/media/mapping-api.e02cb453.png": "/portfolio/static/media/mapping-api.e02cb453.png",
+    "static/media/more.350d1d51.png": "/portfolio/static/media/more.350d1d51.png",
+    "static/media/movie-finder.709b86fc.png": "/portfolio/static/media/movie-finder.709b86fc.png",
+    "static/media/presensi-app.a2fb47fc.png": "/portfolio/static/media/presensi-app.a2fb47fc.png",
+    "static/media/profile.60a4fc42.jpeg": "/portfolio/static/media/profile.60a4fc42.jpeg",
+    "static/media/tracking-app.9c840c85.png": "/portfolio/static/media/tracking-app.9c840c85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e92c9af7.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.9c9cee2b.chunk.js",
+    "static/css/main.6a258a5e.chunk.css",
+    "static/js/main.c92230bb.chunk.js"
+  ]
+}
